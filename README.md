@@ -10,13 +10,14 @@ Establishing connections and exploring new opportunities through collaborations 
 
 Thank you for your interest, and I sincerely appreciate your visit to my profile.                                 </p>
 
-🔭 I’m currently study at **Ecole 42**
+- 🔭 I’m currently study at **Ecole 42**
 
-📫 How to reach me **erbekeren11@gmail.com**
+- 📫 How to reach me **erbekeren11@gmail.com**
 
  <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/Errennerbk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eren ERBEK" height="30" width="40" /></a>
 <a href="https://instagram.com/Erennerbkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Eren ERBEK" height="30" width="40" /></a>
 <a href="https://discord.gg/ErrennErbk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Eren ERBEK" height="30" width="40" /></a>
-   
+
+
 [![eerbek's 42 stats](https://badge42.vercel.app/api/v2/cllas95s5002608ljs4q4rgdt/stats?cursusId=21&coalitionId=362)](https://github.com/JaeSeoKim/badge42)
