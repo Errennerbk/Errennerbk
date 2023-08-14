@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Eren ERBEK</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
-<p I completed my Associate's degree in Computer Programming with honors. Currently, I am pursuing a software engineering education at Ecole 42, known as the world's most innovative coding school. By engaging in freelance work, I have had the opportunity to collaborate on various projects and enhance my problem-solving skills.
+<p A graduate in computer programming, currently pursuing my journey to become a software engineer at Ecole 42. My passion for coding and curiosity drives my constant desire to learn new languages and technologies.
 
-I strongly believe in the significance of teamwork and a collaborative environment in achieving success. As a co-founder of our digital solutions agency, I am dedicated to working alongside our team to deliver impactful results. Our agency aims to be at the forefront of software and digital entrepreneurship projects.
+I see coding as an art, and every new project is a reflection of my creative thinking and problem-solving skills. I enjoy working both individually and in teams, as I believe that combining different perspectives can lead to superior outcomes.
 
-Building upon the successful completion of my computer programming education, I am actively striving to further advance my knowledge and skills through my software engineering studies. I have a great passion for generating creative solutions and developing innovative projects.
+I have a keen interest in algorithms, data structures, and software design. Simultaneously, I'm gaining experience in frontend and backend development. I strive to write code that is clean, readable, and aims to create user-friendly and effective solutions.
 
-Establishing connections and exploring new opportunities through collaborations are of utmost importance to me. If you are interested in getting in touch or sharing mutual interests, I would be delighted to connect.
+On my GitHub profile, you'll find a variety of projects where I apply new languages and technologies I've learned. You're welcome to join me on this journey by following my progress or contributing to my projects. Additionally, I share updates about the latest happenings in the software world and my experiences through my blog.
 
-Thank you for your interest, and I sincerely appreciate your visit to my profile.                                 </p>
+I'm always open to learning and growing. Feel free to reach out; I'm excited about exchanging ideas, collaborating on new projects, and coding together</p>
 
 - 🔭 I’m currently study at **Ecole 42**
 
