@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eren ERBEK</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
-<p A graduate in computer programming, currently pursuing my journey to become a software engineer at Ecole 42. My passion for coding and curiosity drives my constant desire to learn new languages and technologies.
+<p  A graduate in computer programming, currently pursuing my journey to become a software engineer at Ecole 42. My passion for coding and curiosity drives my constant desire to learn new languages and technologies.
 
 I see coding as an art, and every new project is a reflection of my creative thinking and problem-solving skills. I enjoy working both individually and in teams, as I believe that combining different perspectives can lead to superior outcomes.
 
