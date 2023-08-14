@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Eren ERBEK</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 <p> 
-A graduate in computer programming, currently pursuing my journey to become a software engineer at Ecole 42. My passion for coding and curiosity drives my constant desire to learn new languages and technologies.
+A computer programming graduate who is currently immersed in an intensive training program at Ecole 42, with the goal of becoming a proficient software engineer. My insatiable appetite for learning drives me to delve into new languages and technologies.
 
-I see coding as an art, and every new project is a reflection of my creative thinking and problem-solving skills. I enjoy working both individually and in teams, as I believe that combining different perspectives can lead to superior outcomes.
+I view coding as an art form, where each project serves as a canvas for my creative problem-solving abilities. With experience in social media management, I've honed my skills in fostering engaging online communities and delivering content that resonates.
 
-I have a keen interest in algorithms, data structures, and software design. Simultaneously, I'm gaining experience in frontend and backend development. I strive to write code that is clean, readable, and aims to create user-friendly and effective solutions.
+Working both independently and within teams brings me joy, as I believe diverse perspectives enrich the final outcomes. My passion lies in delving into algorithms, data structures, and software design, while also immersing myself in frontend and backend development.
 
-On my GitHub profile, you'll find a variety of projects where I apply new languages and technologies I've learned. You're welcome to join me on this journey by following my progress or contributing to my projects. Additionally, I share updates about the latest happenings in the software world and my experiences through my blog.
+I am committed to writing clean, readable code that aims to deliver user-friendly and effective solutions. My GitHub repository showcases a variety of projects that demonstrate my application of newly acquired languages and technologies.
 
-I'm always open to learning and growing. Feel free to reach out; I'm excited about exchanging ideas, collaborating on new projects, and coding together</p>
+You're welcome to join me on this journey by tracking my progress or contributing to my projects. Additionally, I share insights into the latest developments in the software realm and document my experiences through my blog.
+
+Continuous learning and growth are my watchwords. Please don't hesitate to get in touch. I'm enthusiastic about idea exchange, collaborating on innovative projects, and coding together!</p>
 
 - 🔭 I’m currently study at **Ecole 42**
 
