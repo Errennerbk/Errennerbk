@@ -12,7 +12,7 @@ Thank you for your interest, and I sincerely appreciate your visit to my profile
 
 - 🔭 I’m currently study at **Ecole 42**
 
-- - 📫 How to reach me **erbekeren11@gmail.com**
+- 📫 How to reach me **erbekeren11@gmail.com**
 
  <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/Errennerbk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eren ERBEK" height="30" width="40" /></a>
