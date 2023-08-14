@@ -27,7 +27,7 @@ Continuous learning and growth are my watchwords. Please don't hesitate to get i
 
 <h3 align="left">Github Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api?username=Errennerbk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Errennerbkc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?
+![](https://github-readme-streak-stats.herokuapp.com/?user=Errennerbk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Errennerbk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 [![eerbek's 42 stats](https://badge42.vercel.app/api/v2/cllas95s5002608ljs4q4rgdt/stats?cursusId=21&coalitionId=362)](https://github.com/JaeSeoKim/badge42)
