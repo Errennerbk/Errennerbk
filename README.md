@@ -18,7 +18,6 @@ A computer programming graduate who is currently immersed in an intensive traini
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p></a> </p>
 
 [![eerbek's 42 stats](https://badge42.vercel.app/api/v2/cllas95s5002608ljs4q4rgdt/stats?cursusId=21&coalitionId=362)](https://github.com/JaeSeoKim/badge42)
- <img src="https://github.com/Errrennerbk/Errennerbk/blob/main/github-contribution-grid-snake.svg"/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Errennerbk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Errennerbk&theme=dark&hide_border=false)<br/>
